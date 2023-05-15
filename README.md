@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 <div  align="center">
   <img src="./images/man_couch.png" width="400">
 
-</div>
 
 - 🎨 Self learner, curious and creative in a nutshell. 
 - 🌱 Aware of climate change and positive thinker.
 - 📕 I'm currently studying at Polytech Montpellier in **DevOps**
 - 👨🏻‍💻 I'm working for [R2Devops](https://r2devops.io) as a **DevOps Engineer**
+</div>
 
 <br/>
 
