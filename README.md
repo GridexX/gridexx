@@ -28,22 +28,17 @@ Here are some ideas to get you started:
   <b>A creative DevOps Engineer </b>
 </p>
 <br/>
-<div style="display: flex; align-items: center;  justify-content: space-between; space: 2">
-  <div style="margin-right: 10px; flex: 1 1 0;">
-    <img src="./images/man_couch.png">
-
-
-  - 🎨 Self learner, curious and creative in a nutshell. 
-  - 🌱 Aware of climate change and positive thinker.
-  - 📕 I'm currently studying at Polytech Montpellier in **DevOps**
-  - 👨🏻‍💻 I'm working for [R2Devops](https://r2devops.io) as a **DevOps Engineer**
-  </div>
-
-  <div style="margin-left: 10px; flex: .74 1 0;">
-    <img src="./images/devcard.png">
-  </div>
+<div  align="center">
+  <img src="./images/man_couch.png" width="400">
 
 </div>
+
+- 🎨 Self learner, curious and creative in a nutshell. 
+- 🌱 Aware of climate change and positive thinker.
+- 📕 I'm currently studying at Polytech Montpellier in **DevOps**
+- 👨🏻‍💻 I'm working for [R2Devops](https://r2devops.io) as a **DevOps Engineer**
+
+<br/>
 
 
 ## Here are some of my coding habits ⌨️
@@ -86,3 +81,8 @@ JSON                     42 mins             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+## Here are some of my reading habits 📚
+<div  align="center">
+  <img src="./images/devcard.png" width="300">
+</div>
