@@ -1,11 +1,11 @@
-name: Wakatime
+name: Update Readme
 
 on:
   schedule:
     - cron: '15 */12 * * *'
   workflow_dispatch:
 jobs:
-  update-readme:
+  update-readme-wakatime:
     name: Update Wakatime
     runs-on: ubuntu-latest
     steps:
@@ -28,4 +28,15 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          SYMBOL_VERSION: "1"
+          SYMBOL_VERSION: "1"    
+     
+  update-readme-devcard:
+    runs-on: ubuntu-latest
+    name: Update DevCard
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_branch: main
+          commit_filename: images/devcard.png
