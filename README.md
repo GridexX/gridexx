@@ -28,17 +28,14 @@ Here are some ideas to get you started:
   <b>A creative DevOps Engineer </b>
 </p>
 <br/>
-<div  align="center">
+<p align="center">
   <img src="./images/man_couch.png" width="400">
-
+</p>
 
 - 🎨 Self learner, curious and creative in a nutshell. 
 - 🌱 Aware of climate change and positive thinker.
 - 📕 I'm currently studying at Polytech Montpellier in **DevOps**
 - 👨🏻‍💻 I'm working for [R2Devops](https://r2devops.io) as a **DevOps Engineer**
-</div>
-
-<br/>
 
 
 ## Here are some of my coding habits ⌨️
