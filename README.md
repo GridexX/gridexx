@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <div style="display: flex; align-items: center;  justify-content: space-between; space: 2">
-  <div style="margin-right: 10px;">
-    <img src="./images/man_couch.png" width="400">
+  <div style="margin-right: 10px; flex: 1 1 0;">
+    <img src="./images/man_couch.png">
 
 
   - 🎨 Self learner, curious and creative in a nutshell. 
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   - 👨🏻‍💻 I'm working for [R2Devops](https://r2devops.io) as a **DevOps Engineer**
   </div>
 
-  <div style="margin-left: 10px;">
-    <img src="./images/devcard.png" width="300">
+  <div style="margin-left: 10px; flex: .74 1 0;">
+    <img src="./images/devcard.png">
   </div>
 
 </div>
