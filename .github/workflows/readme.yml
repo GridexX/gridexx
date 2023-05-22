@@ -39,4 +39,4 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: main
-          commit_filename: images/devcard.png
+          commit_filename: images/devcard.svg

@@ -81,5 +81,5 @@ JSON                     30 mins             █░░░░░░░░░░�
 
 ## Here are some of my reading habits 📚
 <div  align="center">
-  <img src="./images/devcard.png" width="300">
+  <img src="./images/devcard.svg" width="300">
 </div>
