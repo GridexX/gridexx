@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🎨 Self learner, curious and creative in a nutshell. 
 - 🌱 Aware of climate change and positive thinker.
 - 📕 I'm currently studying at Polytech Montpellier in **DevOps**
-- 👨🏻‍💻 I'm working for [R2Devops](https://r2devops.io) as a **DevOps Engineer**
+- 👨🏻‍💻 I'm working for [Mezo](https://meso-lr.umontpellier.fr/) as a **DevOps Engineer**
 
 
 ## Here are some of my coding habits ⌨️
