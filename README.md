@@ -17,21 +17,15 @@ Here are some ideas to get you started:
 
 
 <!-- Header -->
-<h1 align="center">
-  <img src="./images/user_profile.png" width="200">
-  <br>
-  Hi, I'm Arsène Fougerouse - aka <span style="color:#ffb72e">GridexX</span> 👋
-</h1>
+<div align="center">
+  <img align="center" src="./images/user_profile.png" width="200">
+</div>
+<p>Hi, my name is</p> 
+<h1 style="margin-top:-15px">Arsène Fougerouse aka <span style="color:#ef961a">GridexX</span> 👋</h1>
 
+A creative DevOps Engineer
 
-<p align="center">
-  <b>A creative DevOps Engineer </b>
-</p>
-<br/>
-<p align="center">
-  <img src="./images/man_couch.png" width="400">
-</p>
-
+- 🌍 I'm from France, Montpellier.
 - 🎨 Self learner, curious and creative in a nutshell. 
 - 🌱 Aware of climate change and positive thinker.
 - 📕 Former student at Polytech Montpellier in **DevOps**
