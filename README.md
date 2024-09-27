@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🎨 Self learner, curious and creative in a nutshell. 
 - 🌱 Aware of climate change and positive thinker.
-- 📕 Former student at Polytech Montpellier at Polytech Montpellier in **DevOps**
+- 📕 Former student at Polytech Montpellier in **DevOps**
 - 👨🏻‍💻 I'm working for [Mezo](https://meso-lr.umontpellier.fr/) as a **DevOps Engineer**
 
 
