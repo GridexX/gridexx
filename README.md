@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🎨 Self learner, curious and creative in a nutshell. 
 - 🌱 Aware of climate change and positive thinker.
 - 📕 Former student at Polytech Montpellier in **DevOps**
-- 👨🏻‍💻 I'm actually working on side-projects, like [Choucroute](https://github.com/houcroute-orga) a *micro-services* architecture to manage cooking recipes
+- 👨🏻‍💻 I'm actually working on side-projects, like [Choucroute](https://github.com/houcroute-orga) a *micro-services* architecture to manage cooking recipes.
 
 
 ## Here are some of my coding habits ⌨️
