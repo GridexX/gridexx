@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🎨 Self learner, curious and creative in a nutshell. 
 - 🌱 Aware of climate change and positive thinker.
 - 📕 Former student at Polytech Montpellier in **DevOps**
-- 👨🏻‍💻 I'm working on side-projects, like [Choucroute](https://meso-lr.umontpellier.fr/) as a **DevOps Engineer**
+- 👨🏻‍💻 I'm actullaworking on side-projects, like [Choucroute](https://meso-lr.umontpellier.fr/) as a **DevOps Engineer**
 
 
 ## Here are some of my coding habits ⌨️
