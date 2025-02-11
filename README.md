@@ -63,7 +63,7 @@ Sunday                   93 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              █████████████████████████   100.00 % 
 ```
 
 
