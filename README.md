@@ -38,34 +38,6 @@ A creative DevOps Engineer
   Like this one : https://github.com/Xanthus58#-tech-stack
 -->
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                722 commits         █████████░░░░░░░░░░░░░░░░   35.74 % 
-🌆 Daytime                990 commits         ████████████░░░░░░░░░░░░░   49.01 % 
-🌃 Evening                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Tuesday                  432 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Wednesday                444 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Thursday                 284 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Saturday                 111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Sunday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
