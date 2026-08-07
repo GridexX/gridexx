@@ -38,6 +38,40 @@ A creative DevOps Engineer
   Like this one : https://github.com/Xanthus58#-tech-stack
 -->
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                714 commits         █████████░░░░░░░░░░░░░░░░   35.21 % 
+🌆 Daytime                987 commits         ████████████░░░░░░░░░░░░░   48.67 % 
+🌃 Evening                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   327 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Tuesday                  432 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Wednesday                440 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Thursday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Saturday                 110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Sunday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
